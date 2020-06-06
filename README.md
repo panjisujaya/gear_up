@@ -1,6 +1,6 @@
-# uas_fix
+# GEAR_UP
 
-A new Flutter project.
+A new and simple e-commerce Flutter project.
 
 ## Getting Started
 
